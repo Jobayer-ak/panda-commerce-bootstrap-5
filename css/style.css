@@ -43,20 +43,3 @@ header{
 .nav-link{
    color: black;
 }
-/* ====== Top Banner ======== */
-#top-banner{
-    margin-top: 30px;
-    
-}
-
-#top-banner .container{
-    background: #E5E5E5;
-    border-radius: 20px;
-}
-.top-desc h2{
-    font-size: 56px;
-}
-.price{
-    font-size: 41px;
-    font-weight: 500;
-}
