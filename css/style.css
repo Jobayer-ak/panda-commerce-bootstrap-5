@@ -1,0 +1,45 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+/*=========Utilities========= */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* ======== Header section ========= */
+header{
+    background: #FFFFFF;
+}
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.input-search {
+    position: relative;
+    width: 500px;
+    
+}
+.form-control{
+    border-radius: 50px;
+    background: #E5E5E5;
+}
+.form-control:focus{
+    background: burlywood;
+}
+.input-search i {
+    position: absolute;
+    right: 22px;
+    top: 12px;
+    color: #130e0e;
+}
+.nav-item{
+    margin-right: 15px;
+}
+.nav-item:last-child{
+    margin-right: 0;
+}
+.nav-link{
+   color: black;
+}
